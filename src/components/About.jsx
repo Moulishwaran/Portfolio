@@ -14,12 +14,15 @@ function About() {
         <div></div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
-            <p>Hi I'm Moulish, nice to meet you. please take a look around.</p>
+            <p>Hi I'm Moulish, Nice to meet you. please take a look around.</p>
           </div>
           <div>
             <p>
-              I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software.
+              I am a highly motivated and skilled engineering graduate looking
+              for an entry-level position as a software engineer. Strong in
+              design and integration with intuitive problem-solving skills.
+              Passionate to contribute ideas and learn new things. I am
+              available for any kind of job opportunity that suits my interests.
             </p>
           </div>
         </div>
