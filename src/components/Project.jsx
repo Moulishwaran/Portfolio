@@ -32,12 +32,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://e1-6f235.web.app">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
+                    Live
                   </button>
                 </a>
                 <a href="https://github.com/Moulishwaran/amazone">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Code
                   </button>
                 </a>
@@ -55,12 +55,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://netflix-d377e.web.app">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
+                    Live
                   </button>
                 </a>
                 <a href="https://github.com/Moulishwaran/Netflix">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Code
                   </button>
                 </a>
@@ -79,12 +79,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://teal-seahorse-7426fd.netlify.app">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
+                    Live
                   </button>
                 </a>
                 <a href="https://github.com/Moulishwaran/chat">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Code
                   </button>
                 </a>
@@ -102,12 +102,12 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://disney-28ecc.web.app">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
+                    Live
                   </button>
                 </a>
                 <a href="https://github.com/Moulishwaran/disney-">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Code
                   </button>
                 </a>
