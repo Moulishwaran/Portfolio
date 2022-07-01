@@ -8,6 +8,7 @@ import FireBase from "../assets/firebase.png";
 import GitHub from "../assets/github.png";
 import Mongo from "../assets/mongo.png";
 import express from "../assets/express.png";
+import mysql from "../assets/mysql.png";
 
 const skills = () => {
   return (
@@ -57,6 +58,10 @@ const skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={express} alt="HTML icon" />
             <p className="my-4">EXPRESS JS</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={mysql} alt="HTML icon" />
+            <p className="my-4">MY SQL</p>
           </div>
         </div>
       </div>
