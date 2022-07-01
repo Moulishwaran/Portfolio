@@ -1,6 +1,7 @@
 import React from "react";
 import HTML from "../assets/html.png";
 import CSS from "../assets/css.png";
+import BOOTSTRAP from "../assets/bootstrap.png";
 import JavaScript from "../assets/javascript.png";
 import ReactImg from "../assets/react.png";
 import Node from "../assets/node.png";
@@ -30,6 +31,10 @@ const skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={CSS} alt="HTML icon" />
             <p className="my-4">CSS</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={BOOTSTRAP} alt="HTML icon" />
+            <p className="my-4">BOOTSTRAP</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={JavaScript} alt="HTML icon" />
