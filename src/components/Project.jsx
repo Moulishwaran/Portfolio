@@ -31,12 +31,15 @@ const Work = () => {
                 Shopping Cart-It's a Full Stack Appication
               </span>
               <div className="pt-8 text-center">
-                <a href="https://e1-6f235.web.app">
+                <a href="https://e1-6f235.web.app" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Live
                   </button>
                 </a>
-                <a href="https://github.com/Moulishwaran/amazone">
+                <a
+                  href="https://github.com/Moulishwaran/amazone"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Code
                   </button>
@@ -54,12 +57,15 @@ const Work = () => {
                 MOVIEFLIX-Full Stack Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://netflix-d377e.web.app">
+                <a href="https://netflix-d377e.web.app" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Live
                   </button>
                 </a>
-                <a href="https://github.com/Moulishwaran/Netflix">
+                <a
+                  href="https://github.com/Moulishwaran/Netflix"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Code
                   </button>
@@ -78,12 +84,15 @@ const Work = () => {
                 CHAT APP-Full Stack Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://teal-seahorse-7426fd.netlify.app">
+                <a
+                  href="https://teal-seahorse-7426fd.netlify.app"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Live
                   </button>
                 </a>
-                <a href="https://github.com/Moulishwaran/chat">
+                <a href="https://github.com/Moulishwaran/chat" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Code
                   </button>
@@ -101,12 +110,15 @@ const Work = () => {
                 DISNEY+ Full Stack Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://disney-28ecc.web.app">
+                <a href="https://disney-28ecc.web.app" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Live
                   </button>
                 </a>
-                <a href="https://github.com/Moulishwaran/disney-">
+                <a
+                  href="https://github.com/Moulishwaran/disney-"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Code
                   </button>
