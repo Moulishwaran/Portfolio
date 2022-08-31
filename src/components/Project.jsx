@@ -2,7 +2,7 @@ import React from "react";
 import amazone from "../assets/amazone.png";
 import netflix from "../assets/netflix.png";
 import chat from "../assets/chat.png";
-import disney from "../assets/disney.png";
+import youtube from "../assets/youtube.png";
 
 const Work = () => {
   return (
@@ -101,22 +101,25 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${disney})` }}
+            style={{ backgroundImage: `url(${youtube})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                DISNEY+ Full Stack Application
+                YOUTUBE
               </span>
               <div className="pt-8 text-center">
-                <a href="https://disney-28ecc.firebaseapp.com" target="_blank">
+                <a
+                  href="https://spectacular-cupcake-143c41.netlify.app"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Live
                   </button>
                 </a>
                 <a
-                  href="https://github.com/Moulishwaran/disney-"
+                  href="https://github.com/Moulishwaran/Youtube-cone"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
