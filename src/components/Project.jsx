@@ -1,7 +1,7 @@
 import React from "react";
-import amazone from "../assets/amazone.png";
+import travel from "../assets/tavel.png";
 import netflix from "../assets/netflix.png";
-import chat from "../assets/chat.png";
+import real from "../assets/realestate.jpg";
 import youtube from "../assets/youtube.png";
 
 const Work = () => {
@@ -22,22 +22,25 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${amazone})` }}
+            style={{ backgroundImage: `url(${travel})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Shopping Cart-It's a Full Stack Appication
+                Travel Manangement-It's a Full Stack Appication
               </span>
               <div className="pt-8 text-center">
-                <a href="https://e1-6f235.web.app" target="_blank">
+                <a
+                  href="https://travel-management-webapp.netlify.app"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Live
                   </button>
                 </a>
                 <a
-                  href="https://github.com/Moulishwaran/amazone"
+                  href="https://github.com/Moulishwaran/TourManag-Frontend"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
@@ -54,7 +57,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                MOVIEFLIX-Full Stack Application
+                NETFLIX-Full Stack Application
               </span>
               <div className="pt-8 text-center">
                 <a href="https://netflix-d377e.web.app" target="_blank">
@@ -75,24 +78,24 @@ const Work = () => {
           </div>
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${chat})` }}
+            style={{ backgroundImage: `url(${real})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                CHAT APP-Full Stack Application
+                RealEstate-Full Stack Application
               </span>
               <div className="pt-8 text-center">
-                <a
-                  href="https://teal-seahorse-7426fd.netlify.app"
-                  target="_blank"
-                >
+                <a href="https://estate-mern.netlify.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Live
                   </button>
                 </a>
-                <a href="https://github.com/Moulishwaran/chat" target="_blank">
+                <a
+                  href="https://github.com/Moulishwaran/Realestate"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:text-pink-600">
                     Code
                   </button>
